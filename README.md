@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Neck ( @Nechir-89 )
-- 👀 I’m interested in web amd mobile development
-- 🌱 I’m currently learning AngularJS and React Native
+- 👋 Hi, I’m Neck
+- :computer: I’m web developer
+- 🌱 I’m currently learning redux and react-redux
 
 
 <!---
