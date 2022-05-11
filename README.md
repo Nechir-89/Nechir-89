@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Neck
 - :computer: I’m full stack web developer
-- 🌱 I’m currently learning Redux and GraphQL
+- 🌱 I’m currently learning GraphQL, NodeJS and ExpressJS
 
 
 <!---
