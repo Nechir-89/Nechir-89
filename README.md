@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Neck
 - :computer: I’m full stack web developer
-- Let's meet @Nechir89
+- Let's meet on twitter @Nechir89
 
 
 <!---
