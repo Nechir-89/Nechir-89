@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Neck
-- :computer: I’m full stack web developer
-- Let's meet on twitter @Nechir89
+- :computer: I’m a fullstack web developer and the author of [Code with Neck](https://www.youtube.com/channel/UC-5HS-AeihwNU6s8tCVWuVw) YouTube channel.
+- [Buy me a coffee](https://www.buymeacoffee.com/neck)
+- Let's meet on twitter :+1: [Twitter](https://twitter.com/Nechir89)
 
 
 <!---
