@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Neck
 - :computer: I’m a fullstack web developer and the author of [Code with Neck](https://www.youtube.com/channel/UC-5HS-AeihwNU6s8tCVWuVw) YouTube channel.
-- [let's have a coffee break](https://www.buymeacoffee.com/neck)
+- [let's have a coffee break](https://www.buymeacoffee.com/neck) together
 - Let's meet on twitter :+1: [Twitter](https://twitter.com/Nechir89)
 
 
