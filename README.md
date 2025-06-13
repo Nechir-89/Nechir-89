@@ -1,5 +1,5 @@
 👋 Hi, I’m Nechir
-:computer: I’m a Teacher, Software developer, and Founder of Techcamp Team.
+🖥️ I’m a Teacher, Software developer, and Founder of Techcamp Team.
 
 <!---
 Nechir-89/Nechir-89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
